@@ -89,9 +89,9 @@
 
 ### Clone project (https)
 ```powershell
-git clone https://github.com/kinari4041/taste_zip.git
+git clone https://github.com/g34634/3nd-Project_taste.zip.git
 ```
 ### Go to project
 ```powershell
-cd taste_zip
+cd 3nd-Project_taste.zip
 ```
